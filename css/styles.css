@@ -1,0 +1,15 @@
+h1{
+  color: #008000;
+  text-align: center;
+}
+h2  {
+  font-style: italic;
+  color: green;
+  font-style: obliquel;
+}
+p{
+  fornt-family: sans-serif;
+}
+ul {
+  line-height: 30px;
+}
