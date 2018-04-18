@@ -13,3 +13,19 @@ p{
 ul {
   line-height: 30px;
 }
+body{
+  background-color: #901021;
+}
+p.changed{
+  font-weight: bold;
+}
+a.link{
+  color: #003000;
+}
+ul{
+  color: #009800;
+  font-size: 28;
+  font-style: oblique;
+  font-style: italic;
+  line-height: inherit;
+}
