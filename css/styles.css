@@ -30,6 +30,7 @@ ul{
   font-style: italic;
   line-height: inherit;
   text-align: center;
+list-style-type: none;
 }
 .aling{
   text-align: center;
@@ -53,5 +54,6 @@ ul{
   color: #ff33cc;
 }
 ol{
+list-style-type: none;
 list-style-type: none;
 }
