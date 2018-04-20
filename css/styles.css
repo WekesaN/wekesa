@@ -15,12 +15,16 @@ ul {
 }
 body{
   background-color: #901021;
+  text-align: center;
 }
 p.changed{
   font-weight: bold;
 }
-a.link{
+.link{
   color: #003000;
+}
+.tag{
+  color: #ff66ff;
 }
 ul{
   color: #009800;
@@ -28,4 +32,8 @@ ul{
   font-style: oblique;
   font-style: italic;
   line-height: inherit;
+list-style-type: none;
+}
+ol{
+  list-style-type: none;
 }
